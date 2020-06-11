@@ -10,6 +10,6 @@ This things you need to install:
 ### Pictures playing the game
 
 <div>
-  <img src=Demo/1.png width="270" height="480" />
-  <img src=Demo/2.png width="270" height="480" />
+  <img src=Demo/1.jpeg width="270" height="480" />
+  <img src=Demo/2.jpeg width="270" height="480" />
 </div>
